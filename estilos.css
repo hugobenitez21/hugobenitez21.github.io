@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: #f7f7f7;
+  
+}
+body h3 {
+  color: pink
+}
+header {
+  text-align: center;
+  padding: 40px 0;
+  background-color: pink;
+  color: #fff;
+}
+
+header h1 {
+  font-size: 60px;
+  font-weight: bold;
+  margin-bottom: 5px;
+
+}
+
+header h2 {
+  color: pink;
+  font-size: 10px;
+  margin-bottom: 10px;
+}
+
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+section {
+  margin-bottom
+
+  
